@@ -14,7 +14,7 @@ A great template for iOS applications
 <pre>
 $ git submodule add https://ferbass@github.com/ferbass/iOS-ApplicationTemplate.git ApplicationTemplate
 </pre>
-2 - In Xcode click with right button on your project and following <pre>Add->Existing Files...</pre> and select <pre>ApplicationTemplate</pre> folder
+2 - In Xcode click with right button on your project and following Add->Existing Files... and select ApplicationTemplate> folder
 
 # YOU
 Fork, send a Pull Request
