@@ -1,0 +1,10 @@
+# ABOUT
+that's my great template for iOS applications
+
+# Install
+
+1 - Run the following command to add the submodule. Be sure you have are you in the root of your git repository.
+<pre>
+$ git submodule add git://github.com/ferbass/ios_application_template.git Application Template
+</pre>
+
