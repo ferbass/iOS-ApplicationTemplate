@@ -12,7 +12,7 @@ A great template for iOS applications
 
 1 - Run the following command to add the submodule. Be sure you have are you in the root of your git repository.
 <pre>
-$ git submodule add https://ferbass@github.com/ferbass/iOS-ApplicationTemplate.git ApplicationTemplate
+$ git submodule add git://github.com/ferbass/iOS-ApplicationTemplate.git ApplicationTemplate
 </pre>
 2 - In Xcode click with right button on your project and following Add->Existing Files... and select ApplicationTemplate> folder
 
