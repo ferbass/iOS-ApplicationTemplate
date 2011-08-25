@@ -6,7 +6,6 @@ A great template for iOS applications
 - ShareKit v0.2.1 http://www.getsharekit.com/
 - Kiwi https://github.com/alding/Kiwi
 - Reachability http://developer.apple.com/library/ios/#samplecode/Reachability/Introduction/Intro.html
-- CacheUtility https://github.com/ferbass/CacheUtility
 
 # Install
 
